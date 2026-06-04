@@ -1,0 +1,13 @@
+mkdir project-12-multi-currency-transfer-system
+
+cd project-12-multi-currency-transfer-system
+
+touch README.md
+touch pom.xml
+touch CurrencyTransfer.java
+touch CurrencyTransferRequest.java
+touch CurrencyTransferRepository.java
+touch CurrencyTransferService.java
+touch CurrencyTransferController.java
+touch MultiCurrencyTransferApplication.java
+touch application.properties
