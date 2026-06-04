@@ -1,0 +1,13 @@
+mkdir project-17-insurance-claims-workflow
+
+cd project-17-insurance-claims-workflow
+
+touch README.md
+touch pom.xml
+touch InsuranceClaim.java
+touch InsuranceClaimRequest.java
+touch InsuranceClaimRepository.java
+touch InsuranceClaimService.java
+touch InsuranceClaimController.java
+touch InsuranceClaimsApplication.java
+touch application.properties
