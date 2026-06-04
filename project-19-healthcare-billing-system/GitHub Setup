@@ -1,0 +1,13 @@
+mkdir project-19-healthcare-billing-system
+
+cd project-19-healthcare-billing-system
+
+touch README.md
+touch pom.xml
+touch HealthcareBill.java
+touch HealthcareBillRequest.java
+touch HealthcareBillRepository.java
+touch HealthcareBillService.java
+touch HealthcareBillController.java
+touch HealthcareBillingApplication.java
+touch application.properties
