@@ -1,0 +1,13 @@
+mkdir project-13-reservation-booking-engine
+
+cd project-13-reservation-booking-engine
+
+touch README.md
+touch pom.xml
+touch Reservation.java
+touch ReservationRequest.java
+touch ReservationRepository.java
+touch ReservationService.java
+touch ReservationController.java
+touch ReservationBookingApplication.java
+touch application.properties
