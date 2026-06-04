@@ -1,0 +1,13 @@
+mkdir project-20-enterprise-transaction-platform
+
+cd project-20-enterprise-transaction-platform
+
+touch README.md
+touch pom.xml
+touch EnterpriseTransaction.java
+touch EnterpriseTransactionRequest.java
+touch EnterpriseTransactionRepository.java
+touch EnterpriseTransactionService.java
+touch EnterpriseTransactionController.java
+touch EnterpriseTransactionApplication.java
+touch application.properties
