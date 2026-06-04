@@ -1,0 +1,13 @@
+mkdir project-07-loan-processing-system
+
+cd project-07-loan-processing-system
+
+touch README.md
+touch pom.xml
+touch Loan.java
+touch LoanRequest.java
+touch LoanRepository.java
+touch LoanService.java
+touch LoanController.java
+touch LoanProcessingApplication.java
+touch application.properties
