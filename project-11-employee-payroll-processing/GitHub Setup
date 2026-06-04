@@ -1,0 +1,13 @@
+mkdir project-11-employee-payroll-processing
+
+cd project-11-employee-payroll-processing
+
+touch README.md
+touch pom.xml
+touch Payroll.java
+touch PayrollRequest.java
+touch PayrollRepository.java
+touch PayrollService.java
+touch PayrollController.java
+touch EmployeePayrollApplication.java
+touch application.properties
