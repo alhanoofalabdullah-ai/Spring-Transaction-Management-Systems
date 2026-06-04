@@ -1,0 +1,13 @@
+mkdir project-05-customer-wallet-service
+
+cd project-05-customer-wallet-service
+
+touch README.md
+touch pom.xml
+touch Wallet.java
+touch WalletRequest.java
+touch WalletRepository.java
+touch WalletService.java
+touch WalletController.java
+touch CustomerWalletApplication.java
+touch application.properties
