@@ -1,0 +1,13 @@
+mkdir project-16-invoice-processing-system
+
+cd project-16-invoice-processing-system
+
+touch README.md
+touch pom.xml
+touch Invoice.java
+touch InvoiceRequest.java
+touch InvoiceRepository.java
+touch InvoiceService.java
+touch InvoiceController.java
+touch InvoiceProcessingApplication.java
+touch application.properties
