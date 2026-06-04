@@ -1,0 +1,13 @@
+mkdir project-09-subscription-billing-engine
+
+cd project-09-subscription-billing-engine
+
+touch README.md
+touch pom.xml
+touch Subscription.java
+touch SubscriptionRequest.java
+touch SubscriptionRepository.java
+touch SubscriptionService.java
+touch SubscriptionController.java
+touch SubscriptionBillingApplication.java
+touch application.properties
