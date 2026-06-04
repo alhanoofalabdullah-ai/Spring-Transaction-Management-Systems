@@ -1,0 +1,13 @@
+mkdir project-04-inventory-transaction-system
+
+cd project-04-inventory-transaction-system
+
+touch README.md
+touch pom.xml
+touch Product.java
+touch InventoryRequest.java
+touch ProductRepository.java
+touch InventoryService.java
+touch InventoryController.java
+touch InventoryTransactionApplication.java
+touch application.properties
