@@ -1,0 +1,7 @@
+cd ~/Spring-Transaction-Management-Systems
+
+mkdir project-02-payment-processing-engine
+
+cd project-02-payment-processing-engine
+
+touch README.md pom.xml Payment.java PaymentRequest.java PaymentRepository.java PaymentService.java PaymentController.java PaymentProcessingApplication.java application.properties
