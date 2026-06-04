@@ -1,0 +1,13 @@
+mkdir project-14-audit-logging-system
+
+cd project-14-audit-logging-system
+
+touch README.md
+touch pom.xml
+touch AuditLog.java
+touch AuditLogRequest.java
+touch AuditLogRepository.java
+touch AuditLogService.java
+touch AuditLogController.java
+touch AuditLoggingApplication.java
+touch application.properties
