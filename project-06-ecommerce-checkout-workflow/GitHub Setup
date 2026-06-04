@@ -1,0 +1,13 @@
+mkdir project-06-ecommerce-checkout-workflow
+
+cd project-06-ecommerce-checkout-workflow
+
+touch README.md
+touch pom.xml
+touch Checkout.java
+touch CheckoutRequest.java
+touch CheckoutRepository.java
+touch CheckoutService.java
+touch CheckoutController.java
+touch EcommerceCheckoutApplication.java
+touch application.properties
