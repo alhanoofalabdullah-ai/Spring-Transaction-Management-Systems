@@ -1,0 +1,13 @@
+mkdir project-18-procurement-management-system
+
+cd project-18-procurement-management-system
+
+touch README.md
+touch pom.xml
+touch Procurement.java
+touch ProcurementRequest.java
+touch ProcurementRepository.java
+touch ProcurementService.java
+touch ProcurementController.java
+touch ProcurementManagementApplication.java
+touch application.properties
