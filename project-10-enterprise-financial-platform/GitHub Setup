@@ -1,0 +1,13 @@
+mkdir project-10-enterprise-financial-platform
+
+cd project-10-enterprise-financial-platform
+
+touch README.md
+touch pom.xml
+touch FinancialTransaction.java
+touch TransactionRequest.java
+touch FinancialTransactionRepository.java
+touch FinancialTransactionService.java
+touch FinancialTransactionController.java
+touch EnterpriseFinancialPlatformApplication.java
+touch application.properties
