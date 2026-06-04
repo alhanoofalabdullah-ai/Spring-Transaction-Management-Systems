@@ -1,0 +1,13 @@
+mkdir project-15-distributed-transaction-demo
+
+cd project-15-distributed-transaction-demo
+
+touch README.md
+touch pom.xml
+touch DistributedTransaction.java
+touch DistributedTransactionRequest.java
+touch DistributedTransactionRepository.java
+touch DistributedTransactionService.java
+touch DistributedTransactionController.java
+touch DistributedTransactionApplication.java
+touch application.properties
