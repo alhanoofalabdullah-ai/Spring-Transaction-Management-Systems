@@ -1,0 +1,5 @@
+mkdir project-08-refund-management-platform
+
+cd project-08-refund-management-platform
+
+git init
